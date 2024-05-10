@@ -15,7 +15,7 @@ const Company = () => {
         Explore details
       </p>
       <div className="mt-[2rem] text-center w-[80%] mx-auto">
-        <Image src={CompanyImg} alt="Company Image" />"
+        <Image src={CompanyImg} alt="Company Image" />
       </div>
     </div>
   );
